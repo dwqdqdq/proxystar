@@ -1,4 +1,4 @@
-<div align='center'>
+<div align='right'>
 
 # Proxy Star
 A web proxy which is fastest among all of the proxys on Github.
