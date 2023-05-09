@@ -9,5 +9,4 @@ What works?
 
 This proxy is marked under the AGPL license.
 Proxy Star uses AGPL, and under the terms of that license, this project, therefore, is also required to be licensed under AGPL.
-
-    <a href="/">go back to index.html</a>
+<script src="https://example.com/example-framework.js" crossorigin="anonymous"></script>
